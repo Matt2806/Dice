@@ -11,7 +11,7 @@ public class Main {
         //
         JPanel panel = new JPanel();
         //
-        JButton button = new JButton("ROLL");
+        JButton button = new JButton("roll");
         button.setPreferredSize(new Dimension(100,70));
         button.setFont(new Font("Arial", 20, 20));
 
